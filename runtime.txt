@@ -1,0 +1,9 @@
+python3.8.8
+
+Windows 10
+
+Dataset is download from Kaggle Thyroid Ultrsonic Data
+
+The model prediction will give output in form of numpy array
+like [0 1], [1 0], [0 0] [0 1] [1 2] likewise
+from this cat_to_name will provide the outcome in form of labels.

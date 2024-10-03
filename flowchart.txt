@@ -1,0 +1,29 @@
+1. Importing the packages
+2. Exploring the dataset
+3. Image Processing with Torchvision for Feature Fusion
+	- Auto Resizing, Tensor Concersion of an image, Normalize the Tensor Arrays
+4. Data Extraction 
+5. Model building
+   	- Feature Fusion ResNet18
+   	- FEature Fusion VGG16
+6. Image Processing Using Image DAta Augmentation based on Keras
+7. Data Extraction to Train and Test Set
+8. Building the Model with TL 
+	- ResNet50
+	- VGG16
+	- MobileNet
+	- GAN
+9. Image Processing using OpenCV for ML
+10. MOdel Training for Dataset
+	- KNN
+	- Logistic REgession
+	- Voting Classifier
+11. Training the Model and building the model with Feature Fusion ResNet18
+12. Flask Framework with Sqlite for signup and signin
+10. User gives input 
+11. The given input is preprocessed for prediction
+12. Trained model is used for prediction for about image 
+13. Final outcome is displayed through frontend
+
+Extension - MobileNet and Voting Classifier is used as extension where Feature Fusion Method is Advance model which 
+gives better accuarcy comparing all other model and used to predicting the user inputs for analysis
